@@ -182,6 +182,7 @@
   .showcase,
   .showcase header,.logo,.toggle,.showcase video,.overplay,.text,.social,.menu,.menu ul,.social li {
     padding: 40px;
+    width:100%;
   }
 
   .text h2 {
