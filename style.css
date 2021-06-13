@@ -180,7 +180,7 @@
 
 @media (max-width: 800px) {
   .showcase,
-  .showcase header {
+  .showcase header,.logo,.toggle,.showcase video,.overplay,.text,.social,.menu,.menu ul,.social li {
     padding: 40px;
   }
 
